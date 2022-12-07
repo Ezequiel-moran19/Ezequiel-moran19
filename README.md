@@ -10,19 +10,16 @@
  - [Linkedin] (www.linkedin.com/in/ezequielmoran)
  
  ___________________________________________________________________________
+ 
+![preview](https://user-images.githubusercontent.com/101348650/206063866-8e63770e-a15f-427a-b28e-9c17b63f19de.svg)
 
+
+<!--
 ![preview](https://user-images.githubusercontent.com/101348650/206035026-af7e20f0-cd91-4133-88f8-c92f859e713f.svg)
-
+-->
 
  <!-- CUADRO DE ESTADISTICA 
 [![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezequiel-moran19)](https://github.com/anuraghazra/github-readme-stats)
--->
-
- <!--
-const thai = {
-  pronouns: "she" | "her",
-  code: [ HTML, CSS, Javascript, C ],
-}
 -->
 
 
