@@ -1,56 +1,85 @@
-<h1 align="center">hi there👋</h1>
+<h1 align="center">👋 ¡Hola! Soy Ezequiel Morán</h1>
 
-<h2> Hola, soy Ezequiel</h2>
+<h3 align="center">
+Desarrollador Full Stack 
+</h3>
 
-<div >
-<img src="https://user-images.githubusercontent.com/101348650/206040892-3431623f-da05-430e-96ef-5afae0d7ca28.gif" alt="Funny image" height="300" width="500"> 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/101348650/206040892-3431623f-da05-430e-96ef-5afae0d7ca28.gif" alt="Coding" width="500">
 </div>
 
-<div>
-<h3 align="left">Contactame: </h3>
-<p align="left">
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl/morancito.91@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/a6d8a862aecb6411e963408e9b3c7666ab357cdfecc14a3a13645eb489688cc8/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c5f6f6c642e737667" alt="ezequielMoran" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/ezequielmoran/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ezequielmoran" height="30" width="40" /></a>
-</p>
+<br>
+
+<div align="center">
+
+🎓 Estudiante avanzado de la Tecnicatura Universitaria en Programación (UTN)
+
+💼 Experiencia en Testing de Software, APIs, Bases de Datos SQL y NoSQL, y Desarrollo Web
+
+<!-- <li>👨‍🏫 Ayudante de Cátedra de Programación I (Python)</li> -->
+
+🚀 Interesado en Calidad de Software, Desarrollo Backend y Aplicaciones Full Stack
+
 </div>
 
-<h3 align="left">Lenguajes e Instrumentos:</h3>
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img </a>  
+<hr>
+
+<h2 align="center">📫 Contacto</h2>
+
+<p align="center">
+  <a href="mailto:ezequiel.moran.h@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/ezequielmoran/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
-![preview](https://user-images.githubusercontent.com/101348650/206063866-8e63770e-a15f-427a-b28e-9c17b63f19de.svg)
+<hr>
 
-<!--
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
--->
+<h2 align="center">💻 Tecnologías y Herramientas</h2>
 
-<!--
-![code](https://user-images.githubusercontent.com/101348650/206040892-3431623f-da05-430e-96ef-5afae0d7ca28.gif)
--->
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular,nodejs,nestjs,mongodb,python,git,github,vscode" />
+</p>
 
-<!--
-![preview](https://user-images.githubusercontent.com/101348650/206035026-af7e20f0-cd91-4133-88f8-c92f859e713f.svg)
--->
+<p align="center">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Zephyr-0095D5?style=for-the-badge">
+<img src="https://img.shields.io/badge/SoapUI-6CB33F?style=for-the-badge">
+<img src="https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge">
+</p>
 
- <!-- CUADRO DE ESTADISTICA 
-[![Ezequiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ezequiel-moran19)](https://github.com/anuraghazra/github-readme-stats)
--->
+<hr>
 
+<h2 align="center">🚀 Algunos proyectos</h2>
 
-<!--
-**Ezequiel-moran19/Ezequiel-moran19** is a ✨ _special_ ✨ repository because its `README.md` (this file)
-appears on your GitHub profile.
+<ul>
+  <li>🎮 Sala de Juegos desarrollada con Angular.</li>
+  <li>📚 API REST con NestJS y MongoDB.</li>
+  <!-- <li>🧪 Colecciones de pruebas de APIs con Postman.</li> -->
+  <li>🌐 Aplicaciones web Full Stack.</li>
+</ul>
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...![linkedin](https://user-images.githubusercontent.com/101348650/206040601-8274c8e1-9760-424c-8c53-4b5fa1343027.svg)
+<h2 align="center">📊 Estadísticas de GitHub</h2>
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ezequiel-moran19&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-moran19&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<hr>
+
+<div align="center">
+
+⭐ Aprendiendo, construyendo y mejorando todos los días ⭐
+
+</div>
